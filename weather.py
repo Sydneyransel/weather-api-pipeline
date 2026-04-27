@@ -72,15 +72,18 @@ if __name__ == "__main__":
 
         time.sleep(1)
 
-    new_df = pd.DataFrame(results)
-
-    if os.path.exists(CSV_PATH):
-        existing_df = pd.read_csv(CSV_PATH)
-        df = merge_and_dedup(existing_df, new_df)
+    if not results:
+        print("WARNING: no data fetched; CSV unchanged.")
     else:
-        df = new_df
+        new_df = pd.DataFrame(results)
 
-    print(df.to_string())
-    print(f"\nShape: {df.shape[0]} rows x {df.shape[1]} columns")
-    df.to_csv(CSV_PATH, index=False)
-    print(f"Saved to {CSV_PATH}")
+        if os.path.exists(CSV_PATH):
+            existing_df = pd.read_csv(CSV_PATH)
+            df = merge_and_dedup(existing_df, new_df)
+        else:
+            df = new_df
+
+        print(df.to_string())
+        print(f"\nShape: {df.shape[0]} rows x {df.shape[1]} columns")
+        df.to_csv(CSV_PATH, index=False)
+        print(f"Saved to {CSV_PATH}")
