@@ -1,11 +1,10 @@
+import os
 import requests
-import json
 import time
+from datetime import date
 import pandas as pd
 
-API_KEY = "e32648ad4a3f40f9bbe175111261304"
-
-api_url = "https://api.weatherapi.com/v1/forecast.json" # 7-day forecast data
+CSV_PATH = "weather_data.csv"
 
 zip_codes = [
     "90045",  # Los Angeles, CA
@@ -26,46 +25,62 @@ zip_codes = [
     "76101",  # Fort Worth, TX
     "46201",  # Indianapolis, IN
     "94102",  # San Francisco, CA
-    "28601",  # Seattle, WA (Hickory area)
+    "28601",  # Hickory, NC
     "37201",  # Nashville, TN
 ]
 
-results = []
 
-for zip_code in zip_codes:
-    params = {
-        "key": API_KEY,
-        "q": zip_code,
-        "days": 7
-    }
+def merge_and_dedup(existing_df, new_df):
+    combined = pd.concat([existing_df, new_df], ignore_index=True)
+    combined = combined.drop_duplicates(subset=["zip_code", "date"], keep="last")
+    return combined.reset_index(drop=True)
 
-    response = requests.get(api_url, params=params)
-    data = response.json()
 
-    city = data["location"]["name"]
-    region = data["location"]["region"]
+if __name__ == "__main__":
+    API_KEY = os.environ["WEATHERAPI_KEY"]
+    api_url = "https://api.weatherapi.com/v1/forecast.json"
+    fetched_on = date.today().strftime("%Y-%m-%d")
+    results = []
 
-    print(f"\n{city}, {region} ({zip_code})")
+    for zip_code in zip_codes:
+        params = {"key": API_KEY, "q": zip_code, "days": 7}
+        try:
+            response = requests.get(api_url, params=params)
+            response.raise_for_status()
+            data = response.json()
+        except Exception as e:
+            print(f"WARNING: skipping {zip_code} — {e}")
+            continue
 
-    for day in data["forecast"]["forecastday"]:
-        result = {
-            "zip_code": zip_code,
-            "city": city,
-            "region": region,
-            "date": day["date"],
-            "max_temp_f": day["day"]["maxtemp_f"],
-            "min_temp_f": day["day"]["mintemp_f"],
-            "condition": day["day"]["condition"]["text"]
-        }
-        results.append(result)
+        city = data["location"]["name"]
+        region = data["location"]["region"]
+        print(f"\n{city}, {region} ({zip_code})")
 
-        print(f"  {result['date']}: High {result['max_temp_f']}°F, Low {result['min_temp_f']}°F, {result['condition']}")
+        for day in data["forecast"]["forecastday"]:
+            result = {
+                "zip_code": zip_code,
+                "city": city,
+                "region": region,
+                "date": day["date"],
+                "max_temp_f": day["day"]["maxtemp_f"],
+                "min_temp_f": day["day"]["mintemp_f"],
+                "condition": day["day"]["condition"]["text"],
+                "fetched_on": fetched_on,
+            }
+            results.append(result)
+            print(f"  {result['date']}: High {result['max_temp_f']}°F, Low {result['min_temp_f']}°F, {result['condition']}")
 
-    time.sleep(1)
+        time.sleep(1)
 
-df = pd.DataFrame(results)
-print(df.to_string())
-print(f"\nShape: {df.shape[0]} rows x {df.shape[1]} columns")
+    new_df = pd.DataFrame(results)
 
-df.to_csv("weather_data.csv", index=False)
-print("Saved to weather_data.csv")
+    if os.path.exists(CSV_PATH):
+        existing_df = pd.read_csv(CSV_PATH)
+        df = merge_and_dedup(existing_df, new_df)
+    else:
+        df = new_df
+
+    print(df.to_string())
+    print(f"\nShape: {df.shape[0]} rows x {df.shape[1]} columns")
+    df.to_csv(CSV_PATH, index=False)
+    print(f"Saved to {CSV_PATH}")
