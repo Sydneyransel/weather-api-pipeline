@@ -36,7 +36,13 @@ jobs:
         run: python weather.py
 
       - name: Commit updated CSV
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "chore: update weather_data.csv"
-          file_pattern: weather_data.csv
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
+          echo "=== local HEAD ===" && git log --oneline -3
+          echo "=== remote ===" && git ls-remote origin HEAD
+          git add weather_data.csv
+          git diff --staged --quiet || git commit -m "chore: update weather_data.csv [$(date -u +%Y-%m-%d)]"
+          git fetch origin main
+          git push --force-with-lease origin main
