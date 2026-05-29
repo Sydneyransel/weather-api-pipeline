@@ -679,3 +679,63 @@ zip_code,city,region,date,max_temp_f,min_temp_f,condition,fetched_on
 37201,Nashville,Tennessee,2026-05-28,91.9,69.1,Patchy rain nearby,2026-05-28
 37201,Nashville,Tennessee,2026-05-29,70.2,63.6,Patchy rain nearby,2026-05-28
 37201,Nashville,Tennessee,2026-05-30,81.3,64.5,Sunny,2026-05-28
+90045,Los Angeles,California,2026-05-29,67.3,52.3,Sunny,2026-05-29
+90045,Los Angeles,California,2026-05-30,69.1,61.3,Sunny,2026-05-29
+90045,Los Angeles,California,2026-05-31,72.9,62.8,Sunny,2026-05-29
+10001,New York,New York,2026-05-29,84.6,55.4,Sunny,2026-05-29
+10001,New York,New York,2026-05-30,68.1,51.0,Partly Cloudy,2026-05-29
+10001,New York,New York,2026-05-31,76.1,53.4,Sunny,2026-05-29
+60601,Chicago,Illinois,2026-05-29,67.5,59.0,Sunny,2026-05-29
+60601,Chicago,Illinois,2026-05-30,64.0,56.4,Partly Cloudy,2026-05-29
+60601,Chicago,Illinois,2026-05-31,66.9,53.4,Sunny,2026-05-29
+98101,Seattle,Washington,2026-05-29,54.9,49.9,Moderate rain,2026-05-29
+98101,Seattle,Washington,2026-05-30,63.4,45.5,Partly Cloudy,2026-05-29
+98101,Seattle,Washington,2026-05-31,65.7,41.3,Sunny,2026-05-29
+33101,Miami,Florida,2026-05-29,89.2,74.1,Moderate rain,2026-05-29
+33101,Miami,Florida,2026-05-30,88.5,80.6,Patchy rain nearby,2026-05-29
+33101,Miami,Florida,2026-05-31,87.2,82.9,Patchy rain nearby,2026-05-29
+77001,Houston,Texas,2026-05-29,93.4,72.1,Sunny,2026-05-29
+77001,Houston,Texas,2026-05-30,93.5,75.1,Sunny,2026-05-29
+77001,Houston,Texas,2026-05-31,91.9,75.2,Partly Cloudy,2026-05-29
+85001,Phoenix,Arizona,2026-05-29,88.2,63.7,Sunny,2026-05-29
+85001,Phoenix,Arizona,2026-05-30,90.2,71.3,Sunny,2026-05-29
+85001,Phoenix,Arizona,2026-05-31,96.7,76.9,Sunny,2026-05-29
+19101,Philadelphia,Pennsylvania,2026-05-29,81.3,54.1,Sunny,2026-05-29
+19101,Philadelphia,Pennsylvania,2026-05-30,69.7,49.7,Partly Cloudy,2026-05-29
+19101,Philadelphia,Pennsylvania,2026-05-31,73.5,50.2,Sunny,2026-05-29
+78201,San Antonio,Texas,2026-05-29,94.6,72.9,Partly Cloudy,2026-05-29
+78201,San Antonio,Texas,2026-05-30,90.3,71.2,Partly Cloudy,2026-05-29
+78201,San Antonio,Texas,2026-05-31,91.4,71.9,Partly Cloudy,2026-05-29
+75201,Dallas,Texas,2026-05-29,97.2,72.7,Sunny,2026-05-29
+75201,Dallas,Texas,2026-05-30,94.4,75.9,Sunny,2026-05-29
+75201,Dallas,Texas,2026-05-31,93.5,77.7,Sunny,2026-05-29
+95101,San Jose,California,2026-05-29,69.8,52.3,Sunny,2026-05-29
+95101,San Jose,California,2026-05-30,78.0,49.2,Sunny,2026-05-29
+95101,San Jose,California,2026-05-31,82.6,46.0,Sunny,2026-05-29
+78701,Austin,Texas,2026-05-29,96.8,71.1,Sunny,2026-05-29
+78701,Austin,Texas,2026-05-30,91.8,71.7,Partly Cloudy,2026-05-29
+78701,Austin,Texas,2026-05-31,92.8,72.9,Sunny,2026-05-29
+32099,Jacksonville,Florida,2026-05-29,89.2,74.1,Patchy rain nearby,2026-05-29
+32099,Jacksonville,Florida,2026-05-30,97.0,73.3,Patchy rain nearby,2026-05-29
+32099,Jacksonville,Florida,2026-05-31,86.8,72.6,Moderate rain,2026-05-29
+28201,Charlotte,North Carolina,2026-05-29,90.5,61.9,Sunny,2026-05-29
+28201,Charlotte,North Carolina,2026-05-30,73.4,64.1,Moderate rain,2026-05-29
+28201,Charlotte,North Carolina,2026-05-31,74.7,55.4,Sunny,2026-05-29
+43085,Columbus,Ohio,2026-05-29,81.0,50.7,Sunny,2026-05-29
+43085,Columbus,Ohio,2026-05-30,67.1,53.0,Sunny,2026-05-29
+43085,Columbus,Ohio,2026-05-31,70.6,47.7,Sunny,2026-05-29
+76101,Fort Worth,Texas,2026-05-29,95.9,70.9,Sunny,2026-05-29
+76101,Fort Worth,Texas,2026-05-30,93.8,75.4,Sunny,2026-05-29
+76101,Fort Worth,Texas,2026-05-31,93.9,76.1,Sunny,2026-05-29
+46201,Indianapolis,Indiana,2026-05-29,88.3,56.5,Sunny,2026-05-29
+46201,Indianapolis,Indiana,2026-05-30,72.1,57.6,Partly Cloudy,2026-05-29
+46201,Indianapolis,Indiana,2026-05-31,74.0,51.1,Overcast,2026-05-29
+94102,San Francisco,California,2026-05-29,60.4,50.2,Partly Cloudy,2026-05-29
+94102,San Francisco,California,2026-05-30,60.6,52.5,Sunny,2026-05-29
+94102,San Francisco,California,2026-05-31,62.7,50.8,Sunny,2026-05-29
+28601,Hickory,North Carolina,2026-05-29,87.8,61.3,Sunny,2026-05-29
+28601,Hickory,North Carolina,2026-05-30,75.7,61.0,Patchy rain nearby,2026-05-29
+28601,Hickory,North Carolina,2026-05-31,74.7,53.1,Sunny,2026-05-29
+37201,Nashville,Tennessee,2026-05-29,87.8,68.4,Patchy rain nearby,2026-05-29
+37201,Nashville,Tennessee,2026-05-30,75.7,66.2,Patchy rain nearby,2026-05-29
+37201,Nashville,Tennessee,2026-05-31,73.7,62.4,Patchy rain nearby,2026-05-29
