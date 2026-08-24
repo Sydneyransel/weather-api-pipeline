@@ -2340,65 +2340,25 @@ zip_code,city,region,date,max_temp_f,min_temp_f,condition,fetched_on
 28601,Hickory,North Carolina,2026-08-21,90.9,66.7,Patchy rain nearby,2026-08-21
 37201,Nashville,Tennessee,2026-08-21,98.1,73.2,Sunny,2026-08-21
 90045,Los Angeles,California,2026-08-22,84.7,63.9,Sunny,2026-08-22
-90045,Los Angeles,California,2026-08-23,84.0,72.2,Sunny,2026-08-22
-90045,Los Angeles,California,2026-08-24,87.3,74.1,Sunny,2026-08-22
 10001,New York,New York,2026-08-22,76.3,66.6,Overcast,2026-08-22
-10001,New York,New York,2026-08-23,85.3,71.4,Patchy rain nearby,2026-08-22
-10001,New York,New York,2026-08-24,83.0,68.0,Sunny,2026-08-22
 60601,Chicago,Illinois,2026-08-22,78.1,68.4,Patchy rain nearby,2026-08-22
-60601,Chicago,Illinois,2026-08-23,71.8,67.6,Sunny,2026-08-22
-60601,Chicago,Illinois,2026-08-24,70.4,63.3,Sunny,2026-08-22
 98101,Seattle,Washington,2026-08-22,76.7,61.3,Sunny,2026-08-22
-98101,Seattle,Washington,2026-08-23,73.4,57.4,Patchy rain nearby,2026-08-22
-98101,Seattle,Washington,2026-08-24,76.5,54.9,Sunny,2026-08-22
 33101,Miami,Florida,2026-08-22,95.5,77.0,Sunny,2026-08-22
-33101,Miami,Florida,2026-08-23,89.6,84.2,Sunny,2026-08-22
-33101,Miami,Florida,2026-08-24,88.4,84.8,Patchy rain nearby,2026-08-22
 77001,Houston,Texas,2026-08-22,104.5,78.8,Sunny,2026-08-22
-77001,Houston,Texas,2026-08-23,101.5,79.1,Sunny,2026-08-22
-77001,Houston,Texas,2026-08-24,101.3,79.3,Sunny,2026-08-22
 85001,Phoenix,Arizona,2026-08-22,116.2,86.4,Sunny,2026-08-22
-85001,Phoenix,Arizona,2026-08-23,108.2,92.9,Sunny,2026-08-22
-85001,Phoenix,Arizona,2026-08-24,103.5,93.6,Dust haze,2026-08-22
 19101,Philadelphia,Pennsylvania,2026-08-22,78.8,67.1,Mist,2026-08-22
-19101,Philadelphia,Pennsylvania,2026-08-23,82.6,68.2,Sunny,2026-08-22
-19101,Philadelphia,Pennsylvania,2026-08-24,80.6,64.1,Sunny,2026-08-22
 78201,San Antonio,Texas,2026-08-22,108.3,77.2,Sunny,2026-08-22
-78201,San Antonio,Texas,2026-08-23,100.9,76.9,Sunny,2026-08-22
-78201,San Antonio,Texas,2026-08-24,99.9,73.3,Sunny,2026-08-22
 75201,Dallas,Texas,2026-08-22,112.8,79.2,Sunny,2026-08-22
-75201,Dallas,Texas,2026-08-23,106.4,83.8,Sunny,2026-08-22
-75201,Dallas,Texas,2026-08-24,105.8,85.9,Overcast,2026-08-22
 95101,San Jose,California,2026-08-22,89.5,57.2,Sunny,2026-08-22
-95101,San Jose,California,2026-08-23,92.2,58.9,Overcast,2026-08-22
-95101,San Jose,California,2026-08-24,92.5,60.5,Overcast,2026-08-22
 78701,Austin,Texas,2026-08-22,108.0,79.0,Overcast,2026-08-22
-78701,Austin,Texas,2026-08-23,104.1,78.6,Sunny,2026-08-22
-78701,Austin,Texas,2026-08-24,102.4,75.6,Sunny,2026-08-22
 32099,Jacksonville,Florida,2026-08-22,98.3,77.2,Overcast,2026-08-22
-32099,Jacksonville,Florida,2026-08-23,99.0,76.6,Overcast,2026-08-22
-32099,Jacksonville,Florida,2026-08-24,100.2,75.9,Overcast,2026-08-22
 28201,Charlotte,North Carolina,2026-08-22,90.1,69.1,Patchy rain nearby,2026-08-22
-28201,Charlotte,North Carolina,2026-08-23,89.9,71.0,Sunny,2026-08-22
-28201,Charlotte,North Carolina,2026-08-24,90.2,70.9,Sunny,2026-08-22
 43085,Columbus,Ohio,2026-08-22,80.8,66.0,Patchy rain nearby,2026-08-22
-43085,Columbus,Ohio,2026-08-23,72.7,60.5,Sunny,2026-08-22
-43085,Columbus,Ohio,2026-08-24,74.5,58.9,Sunny,2026-08-22
 76101,Fort Worth,Texas,2026-08-22,113.2,79.7,Sunny,2026-08-22
-76101,Fort Worth,Texas,2026-08-23,106.1,82.5,Sunny,2026-08-22
-76101,Fort Worth,Texas,2026-08-24,106.2,84.8,Overcast,2026-08-22
 46201,Indianapolis,Indiana,2026-08-22,83.8,65.7,Patchy rain nearby,2026-08-22
-46201,Indianapolis,Indiana,2026-08-23,76.3,62.8,Sunny,2026-08-22
-46201,Indianapolis,Indiana,2026-08-24,78.4,60.9,Overcast,2026-08-22
 94102,San Francisco,California,2026-08-22,72.3,57.6,Sunny,2026-08-22
-94102,San Francisco,California,2026-08-23,64.3,58.4,Overcast,2026-08-22
-94102,San Francisco,California,2026-08-24,63.9,58.1,Sunny,2026-08-22
 28601,Hickory,North Carolina,2026-08-22,88.3,69.1,Heavy rain,2026-08-22
-28601,Hickory,North Carolina,2026-08-23,85.6,65.7,Sunny,2026-08-22
-28601,Hickory,North Carolina,2026-08-24,88.7,64.9,Overcast,2026-08-22
 37201,Nashville,Tennessee,2026-08-22,99.0,70.5,Sunny,2026-08-22
-37201,Nashville,Tennessee,2026-08-23,90.0,69.9,Overcast,2026-08-22
-37201,Nashville,Tennessee,2026-08-24,75.6,69.1,Overcast,2026-08-22
 90045,Los Angeles,California,2026-08-23,89.8,63.3,Sunny,2026-08-23
 90045,Los Angeles,California,2026-08-24,82.9,72.5,Sunny,2026-08-23
 90045,Los Angeles,California,2026-08-25,86.8,72.3,Sunny,2026-08-23
@@ -2459,3 +2419,63 @@ zip_code,city,region,date,max_temp_f,min_temp_f,condition,fetched_on
 37201,Nashville,Tennessee,2026-08-23,94.3,67.3,Sunny,2026-08-23
 37201,Nashville,Tennessee,2026-08-24,86.7,65.8,Sunny,2026-08-23
 37201,Nashville,Tennessee,2026-08-25,91.4,71.5,Overcast,2026-08-23
+90045,Los Angeles,California,2026-08-24,86.6,65.5,Sunny,2026-08-24
+90045,Los Angeles,California,2026-08-25,87.3,75.2,Sunny,2026-08-24
+90045,Los Angeles,California,2026-08-26,85.3,74.5,Sunny,2026-08-24
+10001,New York,New York,2026-08-24,86.0,63.5,Sunny,2026-08-24
+10001,New York,New York,2026-08-25,80.0,67.3,Sunny,2026-08-24
+10001,New York,New York,2026-08-26,84.8,66.6,Sunny,2026-08-24
+60601,Chicago,Illinois,2026-08-24,72.7,62.2,Sunny,2026-08-24
+60601,Chicago,Illinois,2026-08-25,77.7,61.9,Sunny,2026-08-24
+60601,Chicago,Illinois,2026-08-26,79.9,62.3,Sunny,2026-08-24
+98101,Seattle,Washington,2026-08-24,79.4,54.9,Sunny,2026-08-24
+98101,Seattle,Washington,2026-08-25,93.9,59.9,Smoky haze,2026-08-24
+98101,Seattle,Washington,2026-08-26,82.1,57.5,Sunny,2026-08-24
+33101,Miami,Florida,2026-08-24,90.7,76.3,Sunny,2026-08-24
+33101,Miami,Florida,2026-08-25,89.3,83.9,Sunny,2026-08-24
+33101,Miami,Florida,2026-08-26,89.4,84.0,Overcast,2026-08-24
+77001,Houston,Texas,2026-08-24,104.2,76.3,Sunny,2026-08-24
+77001,Houston,Texas,2026-08-25,101.9,80.2,Sunny,2026-08-24
+77001,Houston,Texas,2026-08-26,102.7,80.9,Sunny,2026-08-24
+85001,Phoenix,Arizona,2026-08-24,107.6,84.7,Light drizzle,2026-08-24
+85001,Phoenix,Arizona,2026-08-25,109.2,93.4,Sunny,2026-08-24
+85001,Phoenix,Arizona,2026-08-26,109.7,95.4,Sunny,2026-08-24
+19101,Philadelphia,Pennsylvania,2026-08-24,82.6,61.7,Sunny,2026-08-24
+19101,Philadelphia,Pennsylvania,2026-08-25,81.6,64.1,Sunny,2026-08-24
+19101,Philadelphia,Pennsylvania,2026-08-26,85.3,65.2,Sunny,2026-08-24
+78201,San Antonio,Texas,2026-08-24,106.5,74.3,Sunny,2026-08-24
+78201,San Antonio,Texas,2026-08-25,101.0,73.2,Sunny,2026-08-24
+78201,San Antonio,Texas,2026-08-26,101.5,74.2,Sunny,2026-08-24
+75201,Dallas,Texas,2026-08-24,109.1,84.2,Sunny,2026-08-24
+75201,Dallas,Texas,2026-08-25,97.3,82.3,Patchy rain nearby,2026-08-24
+75201,Dallas,Texas,2026-08-26,104.6,83.0,Overcast,2026-08-24
+95101,San Jose,California,2026-08-24,92.4,58.5,Sunny,2026-08-24
+95101,San Jose,California,2026-08-25,90.2,61.0,Overcast,2026-08-24
+95101,San Jose,California,2026-08-26,94.1,62.1,Sunny,2026-08-24
+78701,Austin,Texas,2026-08-24,105.0,77.4,Sunny,2026-08-24
+78701,Austin,Texas,2026-08-25,103.9,76.0,Sunny,2026-08-24
+78701,Austin,Texas,2026-08-26,103.9,77.0,Sunny,2026-08-24
+32099,Jacksonville,Florida,2026-08-24,96.9,75.7,Sunny,2026-08-24
+32099,Jacksonville,Florida,2026-08-25,96.9,75.5,Overcast,2026-08-24
+32099,Jacksonville,Florida,2026-08-26,98.9,76.3,Sunny,2026-08-24
+28201,Charlotte,North Carolina,2026-08-24,92.8,65.5,Sunny,2026-08-24
+28201,Charlotte,North Carolina,2026-08-25,88.5,67.3,Sunny,2026-08-24
+28201,Charlotte,North Carolina,2026-08-26,93.6,70.2,Sunny,2026-08-24
+43085,Columbus,Ohio,2026-08-24,73.9,54.1,Sunny,2026-08-24
+43085,Columbus,Ohio,2026-08-25,75.1,59.2,Sunny,2026-08-24
+43085,Columbus,Ohio,2026-08-26,77.0,60.8,Sunny,2026-08-24
+76101,Fort Worth,Texas,2026-08-24,109.1,86.0,Sunny,2026-08-24
+76101,Fort Worth,Texas,2026-08-25,99.1,81.5,Sunny,2026-08-24
+76101,Fort Worth,Texas,2026-08-26,105.8,80.3,Overcast,2026-08-24
+46201,Indianapolis,Indiana,2026-08-24,83.7,56.8,Sunny,2026-08-24
+46201,Indianapolis,Indiana,2026-08-25,77.2,60.9,Sunny,2026-08-24
+46201,Indianapolis,Indiana,2026-08-26,81.7,61.8,Sunny,2026-08-24
+94102,San Francisco,California,2026-08-24,64.9,55.8,Overcast,2026-08-24
+94102,San Francisco,California,2026-08-25,63.8,58.8,Overcast,2026-08-24
+94102,San Francisco,California,2026-08-26,65.1,58.7,Sunny,2026-08-24
+28601,Hickory,North Carolina,2026-08-24,90.1,61.9,Sunny,2026-08-24
+28601,Hickory,North Carolina,2026-08-25,84.9,62.4,Sunny,2026-08-24
+28601,Hickory,North Carolina,2026-08-26,87.4,65.3,Sunny,2026-08-24
+37201,Nashville,Tennessee,2026-08-24,94.1,63.0,Sunny,2026-08-24
+37201,Nashville,Tennessee,2026-08-25,88.0,68.7,Sunny,2026-08-24
+37201,Nashville,Tennessee,2026-08-26,89.4,70.9,Thundery outbreaks in nearby,2026-08-24
