@@ -3840,65 +3840,25 @@ zip_code,city,region,date,max_temp_f,min_temp_f,condition,fetched_on
 28601,Hickory,North Carolina,2026-11-04,68.1,52.9,Mist,2026-11-04
 37201,Nashville,Tennessee,2026-11-04,72.5,59.0,Sunny,2026-11-04
 90045,Los Angeles,California,2026-11-05,75.1,61.2,Sunny,2026-11-05
-90045,Los Angeles,California,2026-11-06,78.5,62.1,Sunny,2026-11-05
-90045,Los Angeles,California,2026-11-07,81.0,63.1,Sunny,2026-11-05
 10001,New York,New York,2026-11-05,70.5,59.9,Patchy rain nearby,2026-11-05
-10001,New York,New York,2026-11-06,65.0,61.1,Overcast,2026-11-05
-10001,New York,New York,2026-11-07,62.4,50.6,Patchy rain nearby,2026-11-05
 60601,Chicago,Illinois,2026-11-05,54.7,47.4,Patchy rain nearby,2026-11-05
-60601,Chicago,Illinois,2026-11-06,48.8,43.8,Patchy rain nearby,2026-11-05
-60601,Chicago,Illinois,2026-11-07,50.6,40.7,Sunny,2026-11-05
 98101,Seattle,Washington,2026-11-05,57.2,46.2,Patchy rain nearby,2026-11-05
-98101,Seattle,Washington,2026-11-06,52.9,46.8,Overcast,2026-11-05
-98101,Seattle,Washington,2026-11-07,61.1,49.3,Overcast,2026-11-05
 33101,Miami,Florida,2026-11-05,83.5,77.6,Sunny,2026-11-05
-33101,Miami,Florida,2026-11-06,83.5,76.2,Sunny,2026-11-05
-33101,Miami,Florida,2026-11-07,84.5,75.0,Patchy rain nearby,2026-11-05
 77001,Houston,Texas,2026-11-05,82.1,61.7,Sunny,2026-11-05
-77001,Houston,Texas,2026-11-06,78.6,66.3,Partly Cloudy,2026-11-05
-77001,Houston,Texas,2026-11-07,75.8,63.6,Overcast,2026-11-05
 85001,Phoenix,Arizona,2026-11-05,77.2,59.1,Sunny,2026-11-05
-85001,Phoenix,Arizona,2026-11-06,77.3,60.8,Sunny,2026-11-05
-85001,Phoenix,Arizona,2026-11-07,80.3,61.2,Sunny,2026-11-05
 19101,Philadelphia,Pennsylvania,2026-11-05,71.8,60.1,Patchy rain nearby,2026-11-05
-19101,Philadelphia,Pennsylvania,2026-11-06,66.7,59.0,Overcast,2026-11-05
-19101,Philadelphia,Pennsylvania,2026-11-07,58.7,48.4,Sunny,2026-11-05
 78201,San Antonio,Texas,2026-11-05,81.1,59.7,Sunny,2026-11-05
-78201,San Antonio,Texas,2026-11-06,79.0,60.6,Sunny,2026-11-05
-78201,San Antonio,Texas,2026-11-07,71.2,60.8,Overcast,2026-11-05
 75201,Dallas,Texas,2026-11-05,79.1,58.5,Sunny,2026-11-05
-75201,Dallas,Texas,2026-11-06,73.4,58.3,Overcast,2026-11-05
-75201,Dallas,Texas,2026-11-07,70.4,55.8,Overcast,2026-11-05
 95101,San Jose,California,2026-11-05,72.1,49.3,Sunny,2026-11-05
-95101,San Jose,California,2026-11-06,73.3,49.5,Sunny,2026-11-05
-95101,San Jose,California,2026-11-07,77.9,51.4,Sunny,2026-11-05
 78701,Austin,Texas,2026-11-05,82.2,58.6,Sunny,2026-11-05
-78701,Austin,Texas,2026-11-06,80.1,59.4,Sunny,2026-11-05
-78701,Austin,Texas,2026-11-07,72.0,60.7,Overcast,2026-11-05
 32099,Jacksonville,Florida,2026-11-05,87.7,69.4,Sunny,2026-11-05
-32099,Jacksonville,Florida,2026-11-06,88.0,71.0,Patchy rain nearby,2026-11-05
-32099,Jacksonville,Florida,2026-11-07,81.0,62.8,Overcast,2026-11-05
 28201,Charlotte,North Carolina,2026-11-05,76.3,64.4,Patchy rain nearby,2026-11-05
-28201,Charlotte,North Carolina,2026-11-06,74.1,59.3,Light rain shower,2026-11-05
-28201,Charlotte,North Carolina,2026-11-07,65.6,51.2,Sunny,2026-11-05
 43085,Columbus,Ohio,2026-11-05,65.0,53.2,Sunny,2026-11-05
-43085,Columbus,Ohio,2026-11-06,55.4,44.0,Overcast,2026-11-05
-43085,Columbus,Ohio,2026-11-07,53.5,38.5,Overcast,2026-11-05
 76101,Fort Worth,Texas,2026-11-05,80.1,59.4,Sunny,2026-11-05
-76101,Fort Worth,Texas,2026-11-06,72.0,58.0,Overcast,2026-11-05
-76101,Fort Worth,Texas,2026-11-07,69.6,57.1,Overcast,2026-11-05
 46201,Indianapolis,Indiana,2026-11-05,63.4,49.9,Sunny,2026-11-05
-46201,Indianapolis,Indiana,2026-11-06,55.0,44.2,Patchy rain nearby,2026-11-05
-46201,Indianapolis,Indiana,2026-11-07,50.9,40.4,Overcast,2026-11-05
 94102,San Francisco,California,2026-11-05,65.0,55.1,Sunny,2026-11-05
-94102,San Francisco,California,2026-11-06,64.2,57.1,Sunny,2026-11-05
-94102,San Francisco,California,2026-11-07,65.5,57.6,Sunny,2026-11-05
 28601,Hickory,North Carolina,2026-11-05,72.3,62.4,Fog,2026-11-05
-28601,Hickory,North Carolina,2026-11-06,74.8,50.6,Sunny,2026-11-05
-28601,Hickory,North Carolina,2026-11-07,64.4,44.4,Sunny,2026-11-05
 37201,Nashville,Tennessee,2026-11-05,70.3,51.6,Sunny,2026-11-05
-37201,Nashville,Tennessee,2026-11-06,62.1,47.6,Sunny,2026-11-05
-37201,Nashville,Tennessee,2026-11-07,55.6,42.1,Sunny,2026-11-05
 90045,Los Angeles,California,2026-11-06,79.0,61.6,Sunny,2026-11-06
 90045,Los Angeles,California,2026-11-07,80.3,63.1,Sunny,2026-11-06
 90045,Los Angeles,California,2026-11-08,82.3,64.7,Sunny,2026-11-06
@@ -3959,3 +3919,63 @@ zip_code,city,region,date,max_temp_f,min_temp_f,condition,fetched_on
 37201,Nashville,Tennessee,2026-11-06,61.0,50.3,Sunny,2026-11-06
 37201,Nashville,Tennessee,2026-11-07,56.9,41.1,Sunny,2026-11-06
 37201,Nashville,Tennessee,2026-11-08,62.4,39.6,Sunny,2026-11-06
+90045,Los Angeles,California,2026-11-07,80.1,63.1,Sunny,2026-11-07
+90045,Los Angeles,California,2026-11-08,82.0,64.7,Sunny,2026-11-07
+90045,Los Angeles,California,2026-11-09,80.8,66.4,Sunny,2026-11-07
+10001,New York,New York,2026-11-07,61.9,49.2,Sunny,2026-11-07
+10001,New York,New York,2026-11-08,61.5,48.2,Sunny,2026-11-07
+10001,New York,New York,2026-11-09,57.7,48.3,Sunny,2026-11-07
+60601,Chicago,Illinois,2026-11-07,51.9,40.0,Sunny,2026-11-07
+60601,Chicago,Illinois,2026-11-08,59.1,43.3,Sunny,2026-11-07
+60601,Chicago,Illinois,2026-11-09,57.9,44.8,Sunny,2026-11-07
+98101,Seattle,Washington,2026-11-07,60.5,47.2,Overcast,2026-11-07
+98101,Seattle,Washington,2026-11-08,55.7,46.3,Patchy rain nearby,2026-11-07
+98101,Seattle,Washington,2026-11-09,56.1,43.8,Overcast,2026-11-07
+33101,Miami,Florida,2026-11-07,84.3,75.3,Sunny,2026-11-07
+33101,Miami,Florida,2026-11-08,83.2,75.1,Patchy rain nearby,2026-11-07
+33101,Miami,Florida,2026-11-09,82.1,74.0,Sunny,2026-11-07
+77001,Houston,Texas,2026-11-07,78.7,67.5,Overcast,2026-11-07
+77001,Houston,Texas,2026-11-08,69.9,60.0,Overcast,2026-11-07
+77001,Houston,Texas,2026-11-09,63.4,60.1,Light drizzle,2026-11-07
+85001,Phoenix,Arizona,2026-11-07,79.8,62.1,Sunny,2026-11-07
+85001,Phoenix,Arizona,2026-11-08,80.8,61.5,Sunny,2026-11-07
+85001,Phoenix,Arizona,2026-11-09,80.5,62.2,Sunny,2026-11-07
+19101,Philadelphia,Pennsylvania,2026-11-07,60.2,47.5,Sunny,2026-11-07
+19101,Philadelphia,Pennsylvania,2026-11-08,60.4,47.3,Sunny,2026-11-07
+19101,Philadelphia,Pennsylvania,2026-11-09,58.4,47.7,Sunny,2026-11-07
+78201,San Antonio,Texas,2026-11-07,69.4,59.8,Overcast,2026-11-07
+78201,San Antonio,Texas,2026-11-08,64.0,58.5,Light rain,2026-11-07
+78201,San Antonio,Texas,2026-11-09,64.8,58.9,Light rain shower,2026-11-07
+75201,Dallas,Texas,2026-11-07,65.7,55.9,Overcast,2026-11-07
+75201,Dallas,Texas,2026-11-08,70.0,57.9,Overcast,2026-11-07
+75201,Dallas,Texas,2026-11-09,73.6,56.2,Overcast,2026-11-07
+95101,San Jose,California,2026-11-07,77.2,51.8,Sunny,2026-11-07
+95101,San Jose,California,2026-11-08,72.6,51.2,Overcast,2026-11-07
+95101,San Jose,California,2026-11-09,72.9,51.8,Sunny,2026-11-07
+78701,Austin,Texas,2026-11-07,73.6,59.3,Overcast,2026-11-07
+78701,Austin,Texas,2026-11-08,63.4,58.7,Patchy rain nearby,2026-11-07
+78701,Austin,Texas,2026-11-09,66.5,58.2,Mist,2026-11-07
+32099,Jacksonville,Florida,2026-11-07,80.8,61.9,Overcast,2026-11-07
+32099,Jacksonville,Florida,2026-11-08,81.2,61.7,Sunny,2026-11-07
+32099,Jacksonville,Florida,2026-11-09,84.2,61.8,Sunny,2026-11-07
+28201,Charlotte,North Carolina,2026-11-07,67.5,52.6,Sunny,2026-11-07
+28201,Charlotte,North Carolina,2026-11-08,66.6,46.1,Sunny,2026-11-07
+28201,Charlotte,North Carolina,2026-11-09,70.7,48.0,Sunny,2026-11-07
+43085,Columbus,Ohio,2026-11-07,52.6,42.0,Overcast,2026-11-07
+43085,Columbus,Ohio,2026-11-08,58.2,38.8,Sunny,2026-11-07
+43085,Columbus,Ohio,2026-11-09,59.0,43.5,Sunny,2026-11-07
+76101,Fort Worth,Texas,2026-11-07,65.9,55.5,Overcast,2026-11-07
+76101,Fort Worth,Texas,2026-11-08,70.7,58.5,Overcast,2026-11-07
+76101,Fort Worth,Texas,2026-11-09,72.6,57.1,Sunny,2026-11-07
+46201,Indianapolis,Indiana,2026-11-07,52.9,38.4,Sunny,2026-11-07
+46201,Indianapolis,Indiana,2026-11-08,60.5,37.8,Sunny,2026-11-07
+46201,Indianapolis,Indiana,2026-11-09,62.9,42.1,Sunny,2026-11-07
+94102,San Francisco,California,2026-11-07,66.2,56.9,Sunny,2026-11-07
+94102,San Francisco,California,2026-11-08,64.9,57.6,Overcast,2026-11-07
+94102,San Francisco,California,2026-11-09,65.9,58.1,Sunny,2026-11-07
+28601,Hickory,North Carolina,2026-11-07,67.1,46.2,Sunny,2026-11-07
+28601,Hickory,North Carolina,2026-11-08,65.0,41.1,Sunny,2026-11-07
+28601,Hickory,North Carolina,2026-11-09,69.1,42.2,Sunny,2026-11-07
+37201,Nashville,Tennessee,2026-11-07,56.8,39.4,Sunny,2026-11-07
+37201,Nashville,Tennessee,2026-11-08,62.2,39.9,Sunny,2026-11-07
+37201,Nashville,Tennessee,2026-11-09,65.9,43.1,Sunny,2026-11-07
